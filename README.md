@@ -21,6 +21,11 @@ To get started, follow these easy steps:
 
 - Ubuntu 22.04 or compatible Linux distribution
 - `gedit` text editor (or your preferred alternative)
+- `inotify-tools` to monitor the file for modifications
+
+`sudo apt-get install inotify-tools gedit`
+
+
 
 ## 🌟 Why Choose Our DIY Password Manager?
 
